@@ -1,0 +1,46 @@
+{
+  "name": "RotiSwap Default List",
+  "timestamp": "2022-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/logo.png",
+  "keywords": ["roti", "default"],
+  "tokens": [
+    {
+      "name": "WECO Token",
+      "symbol": "WECO",
+      "address": "0x0494856eF38B935d15d1759e55A1E1Ab1Dc4934F",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0xCF41D6449d9019b1c19F455C8F64DA43579EdeE1.png"
+    },
+    {
+      "name": "USDR Token",
+      "symbol": "USDR",
+      "address": "0xCdA22A8F4fB96Eb2f89089C4f142a1332B6d21ac",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0xCdA22A8F4fB96Eb2f89089C4f142a1332B6d21ac.png"
+    },
+    {
+      "name": "RotiSwap Token",
+      "symbol": "ROTI",
+      "address": "0x63C8A977B6a14A3D7B3cdcC418997010434a3A00",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x63C8A977B6a14A3D7B3cdcC418997010434a3A00.png"
+    },
+    {
+      "name": "DGM Token",
+      "symbol": "DGM",
+      "address": "0x200946425614bD360cc9005a5367D1f8867C22D5",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x200946425614bD360cc9005a5367D1f8867C22D5.png"
+    }
+  ]
+}
